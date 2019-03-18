@@ -1,11 +1,12 @@
-This is the second in a series of posts discussing the importance of human centered design in IT centralization. As part of a 10x project, we've synthesized 18F's learnings from working with agency partners into a series of guides and best practices. The series explores how and why taking the time to prioritize users generates more success and overall happiness for an agency. 
+_This is the second in a series of posts discussing the importance of human centered design in IT centralization. As part of a 10x project, we've synthesized 18F's learnings from working with agency partners into a series of guides and best practices. The series explores how and why taking the time to prioritize users generates more success and overall happiness for an agency.
 
+# Deciding whether or not to centralize #
 
-Deciding whether or not to centralize
+To centralize or not to centralize? 
+The Department of Justice (DOJ) was eager to improve its internal IT strategy and wondered if centralization was the right road to take to get there. They saw opportunities to consolidate, streamline, and reorganize common IT functions across departments. But they had some concerns: 
 
-To centralize or not to centralize? The Department of Justice (DOJ) was eager to improve its internal IT strategy and wondered if centralization was the right road to take to get there. They saw opportunities to consolidate, streamline, and reorganize common IT functions across departments. But they had some concerns: 
-Would it make sense to reorganize and streamline some IT services but not others?
-Would this effort reduce costs and increase efficiency or would it be a budget drain?
+- Would it make sense to reorganize and streamline some IT services but not others?
+- Would this effort reduce costs and increase efficiency or would it be a budget drain?
 Would it make employees happy or end up being a burden on them? 
 Does this situation sound familiar? Many agencies have found themselves in a similar boat when evaluating IT centralization. 
 After interviewing several folks who’ve experienced some sort of centralization effort, we’ve developed some best practices for navigating the possibility of centralizing in a user-centered way. 
