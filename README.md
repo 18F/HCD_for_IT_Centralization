@@ -9,12 +9,12 @@ Hundreds of millions of dollars are spent on centralization efforts that don't e
 # Intended audience
 Our intended audience is CIOs who set their agency’s modernization strategies as well as performance managers or anyone else making decisions around IT centralization efforts within an agency. Our goal is to introduce this audience to exercises, methods, workshop formats, and other advice to guide them through the process. 
 
-Content series
+# Content series
 We’ve created a multi-part content series/guide that includes materials on the following: 
-Defining IT centralization
-Deciding whether or not to centralize 
-Working with vendors to build a centralized solution
-What happens after you centralize
-Case study: Using HCD methods to evaluate IT centralization 
-Publishing and promotion plan
+- Defining IT centralization
+- Deciding whether or not to centralize 
+- Working with vendors to build a centralized solution
+- What happens after you centralize
+
+# Publishing and promotion plan
 We plan to publish the content series on the 18F blog and also make it accessible on the Github Repo for anyone interested in accessing the resources. We have interested partners (CIO Council, Performance.gov, Digital.gov, Centers of Excellence) who’ve agreed to cross-promote the content to help reach our intended audience.
