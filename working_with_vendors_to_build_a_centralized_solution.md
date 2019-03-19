@@ -22,7 +22,7 @@ Agile and Lean methodologies break large pieces of work into smaller chunks that
 ## 2. Consider all your options: build, buy, or borrow?
 Before jumping into a vendor relationship, remember you have a few options: you can custom-build the tool yourself (in-house) or outsource this job; you can buy a Commercial Off the Shelf (COTS) product or Software as a Service (SaaS); or you can “borrow” certain software components from free, open source code sources from another government or organization. 
 
-A single product may have some components that are built and some that are bought. Read more on these options in this great deck: “Whether to Borrow, Build or Buy?”
+A single product may have some components that are built and some that are bought. Read more on these options in this great deck: [“Whether to Borrow, Build or Buy?”](https://github.com/18F/HCD_for_IT_Centralization/blob/master/Whether%20to%20Build%2C%20Buy%20or%20Borrow_.pdf)
 
 
 ## 3. Avoid vendor-lock in 
