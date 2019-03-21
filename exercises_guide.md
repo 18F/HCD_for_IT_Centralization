@@ -17,7 +17,8 @@ Giving users visibility into the work behind the scenes is another way to build 
 
 To help you get started on the right foot, we’ve gathered some exercises used at 18F to help agencies evaluate IT centralization efforts in order to mitigate risks and increase success: 
 
-1. (<https://github.com/18F/HCD_for_IT_Centralization/blob/master/consensus-building-workshop.md> "Facilitate a consensus-building workshop")
+1.[Facilitate a consensus-building workshop]
+(https://github.com/18F/HCD_for_IT_Centralization/blob/master/consensus-building-workshop.md)
 2. Capture hopes and fears
 3. Define the current state 
 4. Get a deeper understanding of existing services 
