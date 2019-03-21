@@ -1,4 +1,4 @@
-Facilitate a consensus-building workshop
+# Facilitate a consensus-building workshop
 
 This is a great opportunity to bring together stakeholders from different components of the agency. Be sure to include folks from IT, security, operations, developers, and other people who actually use the service and will be affected by the centralization initiative. The goal of this workshop is to learn more about the current IT landscape across different agency components. 
 
