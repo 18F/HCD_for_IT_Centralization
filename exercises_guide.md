@@ -14,10 +14,10 @@ Building collaborative relationships needs to be at the foundation of any initia
 
 ### Give users visibility into the issue resolution process
 Giving users visibility into the work behind the scenes is another way to build trust without creating substantial burden on the agency. 
-- [Facilitate a consensus-building workshop](https://github.com/18F/HCD_for_IT_Centralization/blob/master/consensus-building-workshop.md)
-- [Deciding whether or not to centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/defining_IT_centralization.md) 
-- [Working with vendors to build a centralized solution](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md)
-- [What happens after you centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md)
+1. [Facilitate a consensus-building workshop](https://github.com/18F/HCD_for_IT_Centralization/blob/master/consensus-building-workshop.md)
+2. [Capture hopes and fears](https://github.com/18F/HCD_for_IT_Centralization/blob/master/defining_IT_centralization.md) 
+3. [Working with vendors to build a centralized solution](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md)
+ [What happens after you centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md)
 
 2. Capture hopes and fears
 3. Define the current state 
