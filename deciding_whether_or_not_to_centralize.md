@@ -1,6 +1,6 @@
 # Deciding whether or not to centralize
 
-To centralize or not to centralize? The Department of Justice (DOJ) was eager to improve its internal IT strategy and wondered if centralization was the right road to take to get there. They saw opportunities to consolidate, streamline, and reorganize common IT functions across departments. But they had some concerns: 
+To centralize or not to centralize? Many agencies are eager to improve their internal IT strategy and wonder if centralization is the answer. While there are indeed opportunities to consolidate, streamline, and reorganize common IT functions across departments, there are also some concerns:   
 - Would it make sense to reorganize and streamline some IT services but not others?
 - Would this effort reduce costs and increase efficiency or would it be a budget drain?
 - Would it make employees happy or end up being a burden on them? 
@@ -9,12 +9,13 @@ To centralize or not to centralize? The Department of Justice (DOJ) was eager to
 After interviewing several folks who’ve experienced some sort of centralization effort, we’ve developed some best practices for navigating the possibility of centralizing in a user-centered way. 
 
 ## 5 things to remember when considering centralization
-Set specific, realistic, measurable goals
-Bring the right people to the table
-Collaborate to identify the problem and set the vision
-Avoid one-size-fits-all
-Anticipate the hurdles
-Incorporating human centered design should be part of your strategy. Because at the end of the day, if your users are not benefiting from the centralization, it’s probably not a good idea. 
+1. Set specific, realistic, measurable goals
+2. Bring the right people to the table
+3. Collaborate to identify the problem and set the vision
+4. Avoid one-size-fits-all
+5. Anticipate the hurdles
+
+Incorporating human-centered design into your centralization evaluation should be part of your strategy. Because at the end of the day, if your users are not benefiting from the centralization, it’s probably not a good idea. 
 
 ## 1. Set specific, realistic, measurable goals   
 The President’s Management Agenda encourages agencies to improve transparency, customer service, service sharing, and reduce redundancies in service of the agency’s mission. These are all really big goals. As you move to implement them, it will be important to prioritize one. This doesn’t mean not achieving the others, but choosing one to drive toward first. 
@@ -35,11 +36,14 @@ CENTRALIZATION IS COOL
 ALLOW FLEXIBILITY 
 
 
+
 Spend some time defining how centralizing the IT function you have in mind would help your agency reach each goal. Try and map goals based on the effort they will take to achieve and the impact they will have on your users. Prioritize high positive impact and medium-to-low effort. 
 Clarifying your goals will help with communication across your organization and identify ways other folks in the agency can play a role.  
 ## 2. Bring the right people to the table   
 Nothing is worse than investing large amounts of money and time into something that nobody likes or uses. This scenario is often the result of not having the right people at the table when making the decisions about what to build or buy. Those missing voices will help challenge assumptions around what is useful. 
+
 In the user-centered design world, we believe the people who use services everyday should always be at the table. At the beginning of your effort to understand whether to centralize an IT function or not, identify front-line partners who use the services. Front-line partners can help you understand how the services are used, the problems users have, and the opportunities users see. You will be most successful if you work together.  
+
 Front-line managers, for example, often have the best insight into why current systems are set up the way they are and what features they need in the future. They are experts in their areas and should have decision power over what services are delivered. IT managers should have decision power over how they are delivered. 
 
 ## 3. Collaborate to identify the problem and set the vision
@@ -57,12 +61,14 @@ Start by defining the ways an IT function currently works. A few guiding questio
 * What is working and what isn’t? 
 * What workarounds have people created? 
 * What impact does it have on the mission? 
+
 Going through these questions will help identify which services may be good to consolidate and which should remain siloed. During this process make sure to note any barriers to consolidation - what roadblocks might you run into if you attempt consolidation in these areas? 
 It may also be a good idea to run through the 5 Whys if you find any particularly gnarly problems. To do this, start with asking why the problem occurs. The answer to the first “why” should prompt the next “why” until you reach the root cause of the issue. 
 
 ### Defining success metrics
 How will you know if your efforts are successful or unsuccessful? Hopefully your organization already has Key Performance Indicators (KPIs) that you can measure against. Make sure your KPIs include outcomes you want to achieve for users. This will help ensure any new solutions work well for them and not just the bottom line. 
-* A couple examples of strong KPIs might be: 
+
+A couple examples of strong KPIs might be: 
 * A contracting officer can use this system to write a contract 5% faster than on the current system.
 * A contracting officer will be able to use this system to write a contract in the same amount of time as the current system, but it will cost 5% less.
 
@@ -71,7 +77,7 @@ Are there places where you’re already doing well that may not need more improv
 Which places would benefit most from investment? 
 Use metrics to understand your current state first, then create meaningful metrics to measure the impact you hope to have. These metrics will help track the progress of your project, measure vendor performance, and understand if your efforts are having the impact you hoped for. 
 
-Pro-tip: If you’re not already measuring a service, make sure you know how you can get to the data. Unmeasurable metrics aren’t very helpful to anyone. 
+**Pro-tip:** If you’re not already measuring a service, make sure you know how you can get to the data. Unmeasurable metrics aren’t very helpful to anyone. 
 
 ### Outlining your future state 
 Now that you understand the current state, you can make informed choices for the future. A useful exercise at this point is writing a vision statement. Your vision statement should focus on the impact you want to make for users and stakeholders. This will help keep your team focused as you choose and implement new solutions. 
