@@ -31,6 +31,7 @@ CENTRALIZATION IS COOL
 - SaaS
 - Design systems and standards
 - Software development
+
 ALLOW FLEXIBILITY 
 
 
