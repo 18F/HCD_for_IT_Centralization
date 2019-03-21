@@ -98,9 +98,13 @@ Keep track of which tools people are using and identify which tools/services are
 
 ## 5. Anticipate the hurdles
 Don’t wait until the end of a project to make the following considerations: 
-Start early on getting an Authority to Operate (ATO)
+
+### Start early on getting an Authority to Operate (ATO)
 Leaving this process until the end will only add time to your project, delaying value to your users. Make sure you involve your policy and security team members early to understand compliance, which will make the end of the project go smoother. 
-Consider your rollout plan
+
+### Consider your rollout plan
 Identifying what IT functionality should exist is only the beginning. Start thinking about how you will communicate the changes you make to your team, how you will phase out or update existing systems, and how you will maintain trust with your users. 
+
 At the end of the day, centralization may or may not be the right strategy for your agency. Approaching the decision in a user-centered way will help you gain trust with your team and reduce the risk of making a poor investment. 
-Next in our series, we’ll talk about working with vendors and how to build or buy a centralized solution from them in a user-centered way. 
+
+_Next in our series, we’ll talk about working with vendors and how to build or buy a centralized solution from them in a user-centered way._ 
