@@ -1,4 +1,4 @@
-# Guide: Human Centered Design Exercises for Centralization Projects
+# Human-Centered Design Exercises for Centralization Projects
 
 While it’s tempting to move quickly on a centralization initiative, it’s always worth it to invest in the time it takes to investigate opportunities and risks at an early stage. Digging into user research early in this process will mitigate much bigger risks down the line. 
 
