@@ -31,6 +31,11 @@ Giving users visibility into the work behind the scenes is another way to build 
 8.[Define success metrics]
 (LINK)
 
+- [Defining IT centralization](https://github.com/18F/HCD_for_IT_Centralization/blob/master/deciding_whether_or_not_to_centralize.md)
+- [Deciding whether or not to centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/defining_IT_centralization.md) 
+- [Working with vendors to build a centralized solution](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md)
+- [What happens after you centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md)
+
 ## Congrats! You did great work!
 Taking the time to go through these exercises and deepen your understanding of the risks and opportunities involved can save you considerable time and money. The success of any centralization effort fundamentally depends on the value the centralization brings to its users. If a centralization introduces new obstacles, making work less effective and less efficient for users, it’s not bringing the agency value. 
 
