@@ -20,6 +20,7 @@ Incorporating human centered design should be part of your strategy. Because at 
 The President’s Management Agenda encourages agencies to improve transparency, customer service, service sharing, and reduce redundancies in service of the agency’s mission. These are all really big goals. As you move to implement them, it will be important to prioritize one. This doesn’t mean not achieving the others, but choosing one to drive toward first. 
 Your goals should depend on what type of function you are looking to centralize. Whether centralizing is appropriate or not often depends on 1) how often a service repeats across an agency and 2) how important flexibility is to delivering on the agency’s mission. 
 Below is a spectrum showing examples of when centralization is cool at the top moving down to examples where allowing for more flexibility is important.
+
 CENTRALIZATION IS COOL
 - Telephones
 - Laptops
@@ -31,6 +32,7 @@ CENTRALIZATION IS COOL
 - Design systems and standards
 - Software development
 ALLOW FLEXIBILITY 
+
 
 Spend some time defining how centralizing the IT function you have in mind would help your agency reach each goal. Try and map goals based on the effort they will take to achieve and the impact they will have on your users. Prioritize high positive impact and medium-to-low effort. 
 Clarifying your goals will help with communication across your organization and identify ways other folks in the agency can play a role.  
