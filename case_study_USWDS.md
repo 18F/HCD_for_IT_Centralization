@@ -1,4 +1,4 @@
-# Building a centralized design system for the government: _a case study on U.S. Web Design System_
+# Building a centralized design system for the government: _A case study on U.S. Web Design System_
 
 - **The challenge:** To create visual consistency across the nearly 30,000 U.S. federal websites in order to save the government considerable time and budget on design and development resources
 - **The outcome:** [U.S. Web Design System](https://designsystem.digital.gov/) - a centralized tool that’s free and accessible for all federal agencies 
