@@ -2,6 +2,8 @@ _This is the fourth in a series of posts discussing the importance of human-cent
 
 ----
 
+# What happens after you centralize
+
 Let’s say the CIO of a large agency recently decided to consolidate different recruiting tools used across her agency’s different departments. We’ll call her Sandra. Previously each department was managing their own recruiting systems, processes, and data, but Sandra hoped the new arrangement would decrease the number of systems needed and reduce the burden on individual departments. 
 
 Once the organization got through the initial roll-out, Sandra realized there were expectations of the central IT office she hadn’t foreseen. Now all the departments depended on this office to make sure the system worked. This didn’t just mean the system was up and running — the central IT team was also responsible for making sure the new system delivered on the promised value. 
