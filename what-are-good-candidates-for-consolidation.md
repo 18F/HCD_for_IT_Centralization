@@ -21,5 +21,6 @@ You can also generate the top 5 potential “bad candidates to consolidate” by
 
 Remember, this is an “ideal world” scenario
 Remind the team to think about “possible to consolidate” candidates in an ideal world scenario. This is an important distinction of design thinking. Transport yourself to this world and think, what would success look like in an ideal world? 
-Try this exercise!
+
+## Try this exercise!
 Grab another stack of sticky notes and pens, or if you’d rather run the exercise digitally, here’s a link to our Mural template.
