@@ -1,5 +1,4 @@
-# Building a centralized design system for the government: 
-# A case study on U.S. Web Design System
+# Building a centralized design system for the government: _A case study on U.S. Web Design System_
 
 - **The challenge:** To create visual consistency across the nearly 30,000 U.S. federal websites in order to save the government considerable time and budget on design and development resources
 - **The outcome:** [U.S. Web Design System](https://designsystem.digital.gov/) - a centralized tool that’s free and accessible for all federal agencies 
@@ -16,7 +15,6 @@ A team of designers and developers from 18F along with other agencies (Departmen
 Here are some important lessons the USWDS team learned along the way: 
 
 ## 1. Empower your team
-
 You’ll need a dedicated group to work on your centralization effort as well as support from leadership to give you the air cover required to do this work. It should be as important as any other project. 
 
 Start by forming a multidisciplinary team. For many IT centralization efforts, this will mean bringing together expertise from IT, security, operations, and your developers. You’ll also want someone to fulfill the role of project manager and product owner to guide the project and prioritize the right goals. When you give people a stake in the system, they’ll feel invested to use the service and contribute back, increasing your chances of success in the end. 
