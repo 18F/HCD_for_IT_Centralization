@@ -1,5 +1,5 @@
 
-_This is the third in a series of posts discussing the importance of human-centered design in IT centralization. As part of a 10x project, we've synthesized 18F's learnings from working with agency partners into a collection of best practices and guides. The series explores why taking the time to prioritize users is important, and how to incorporate collaborative methods into your process. In this post we’ll share some helpful tips on how to effectively work with vendors. _
+_This is the third in a series of posts discussing the importance of human-centered design in IT centralization. As part of a 10x project, we've synthesized 18F's learnings from working with agency partners into a collection of best practices and guides. The series explores why taking the time to prioritize users is important, and how to incorporate collaborative methods into your process. In this post we’ll share some helpful tips on how to effectively work with vendors._
 
 
 # Working with vendors to build a centralized solution
@@ -33,7 +33,8 @@ Vendor lock-in occurs when an agency is dependent on one vendor to build, operat
 
 Avoid lock-in by drafting RFPs for small, independent services rather than for large, labyrinthine IT systems. Each service can be built by separate vendors yet come together to form a complete system. This way if one vendor or module isn’t working, you can easily change course. 
 
-When applied to legacy systems, this is sometimes called an [encasement](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/) strategy. Having this flexibility is important - changing direction after investing six months and $500,000 into an IT effort sure beats ditching it five years and $100 million later. Your users will have more trust in you as well.
+When applied to legacy systems, this is sometimes called an [encasement strategy](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/). Having this flexibility is important - changing direction after investing six months and $500,000 into an IT effort sure beats ditching it five years and $100 million later. Your users will have more trust in you as well.
+
 This approach has been used by several 18F partners like the [California Department of Health and Human Services](https://18f.gsa.gov/2016/03/22/helping-california-buy-a-new-child-welfare-system/) and [Alaska’s Department of Health & Social Services](https://18f.gsa.gov/2017/09/12/how-alaska-is-using-transparency/). 
 
 
@@ -41,7 +42,7 @@ This approach has been used by several 18F partners like the [California Departm
 A well-written RFP, with clearly defined business objectives and technical direction, will increase the chances of a successful project. A poorly written RFP, on the other hand, will expose you to such risks as vendor lock-in, overbidding to compensate for uncertainty, and failure due to miscommunication and misunderstanding. These problems will likely send you down a long and painful road of reworks, contract modifications, and running over-budget and past-deadlines. And nobody wants that. 
 
 Here are some helpful tips:
-* Draft your RFPs for outcomes rather than specifications. What matters most in the end is the tools will serve the needs of your end users. 
+* Draft your RFPs for [outcomes rather than specifications](https://18f.gsa.gov/2017/11/30/improving-government-outcomes-through-an-agile-contract-format/). What matters most in the end is the tools will serve the needs of your end users. 
 * Be clear in your writing - keep it short and in [plain language](https://www.plainlanguage.gov/). 
 * Include considerations for user-centered design and development
 * If you need additional help writing RFPs, [18F can help](inquiries18f@gsa.gov).
@@ -55,4 +56,4 @@ Creating a cross-functional DevSecOps team helps avoid these pitfalls by bringin
 
 Working with an outside vendor often means trusting people who are removed from your agency, your mission, and your end users. It’s risky to depend on a vendor to build, maintain, and update an IT service that is fundamentally critical to your mission. When shopping for a vendor, make sure you find one that’s aligned with your mission and integrate your DevSecOps team into this vendor partnership to keep your users at the center of the centralization. 
 
-Next in our series, we address what happens after you centralize and how to keep a user-centered approach even after the rollout. 
+_Next in our series, we address what happens after you centralize and how to keep a user-centered approach even after the rollout._ 
