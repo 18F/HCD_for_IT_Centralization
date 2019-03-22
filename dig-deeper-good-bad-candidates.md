@@ -4,10 +4,10 @@ Ask the group to more concretely list the benefits that consolidating services w
 
 Below are two exercises to structure this conversation. 
 
-For “good” candidates, have each person fill in the following sentence:
+For **“good” candidates,** have everyone fill in the following sentence:
 >**If a trusted service provider managed** [service] **it would help** [user] **by** [benefit] b**ut [obstacles that stand in the way today].**
 
-For “bad” candidates:
+For **“bad” candidates:** have everyone fill in the following sentence:
 >**It’s more efficient** (cost? labor?) **for us to manage** [service] **because we can/have** [thing component does uniquely] **and even a trusted provider wouldn’t** [obstacles that stand in the way today].
 
 This exercise allows you to narrow down your list of possible centralization candidates and gain consensus on the remaining barriers, how they might be overcome, and why the status quo might actually be more efficient in some cases. 
