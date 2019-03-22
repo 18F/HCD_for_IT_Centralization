@@ -1,4 +1,4 @@
-#8. Define success metrics
+# 8. Define success metrics
 
 How will you know if your efforts are successful or unsuccessful? Hopefully your organization already has Key Performance Indicators (KPIs) you can measure against. Make sure your KPIs include outcomes you want to achieve for users, not just outcomes that focus on the bottom line. 
 
