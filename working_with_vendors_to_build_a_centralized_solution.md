@@ -1,6 +1,7 @@
 
 _This is the third in a series of posts discussing the importance of human-centered design in IT centralization. As part of a [10x project](10x.gsa.gov), we've synthesized 18F's learnings from working with agency partners into a collection of best practices and guides. The series explores why taking the time to prioritize users is important, and how to incorporate collaborative methods into your process. In this post we’ll share some helpful tips on how to effectively work with vendors._
 
+----
 
 # Working with vendors to build a centralized solution
 Whether you’re centralizing software or centralizing offices, every effort is different. That’s why it’s so important to dive into the needs, concerns, and pain points of the people who will be affected by the centralized tool or service. This due diligence won’t just help reduce risk when deciding if and what services to centralize, it will also help reduce risk when working with vendors. 
