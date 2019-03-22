@@ -5,9 +5,9 @@ Here are a few sample questions to send out to a larger group of users - those w
 
 ## Open-ended questions
 
-1. With the last ___ you worked on in mind, which technical services or tools helped you get your work done? (Examples: remote access, ALS software, email, service desk, trainings) 
+1. With the last ___ you worked on in mind, which technical services or tools helped you get your work done? _(Examples: remote access, ALS software, email, service desk, trainings)_ 
 
-2. With the last ___ you worked on in mind, what technical obstacles stood in the way of getting your work done? (Ex: network problems, computer issues, software issues, service outages, communication issues) 
+2. With the last ___ you worked on in mind, what technical obstacles stood in the way of getting your work done? _(Examples: network problems, computer issues, software issues, service outages, communication issues)_ 
 
 3. If you had a magic assistant that could help you with any of your tasks or obstacles, what would it do?
 
