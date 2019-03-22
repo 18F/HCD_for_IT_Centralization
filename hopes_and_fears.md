@@ -4,4 +4,4 @@ Another useful exercise at the beginning of any project is Hopes and Fears. Brin
 
 This is a great way to level-set and begin to build trust with your teams. Be sure to document the responses (take notes, snap a photo of the whiteboard) and revisit these hopes and fears later when it comes time to build your roadmap. 
 
-Just don’t get too attached to a detailed plan or set vision at the stage of that project. You will learn as you go and may need to adjust your plans along the way. If you’re working in an agile way, this is natural. As Graham Kenny writes, “strategic plans are less important than strategic planning”. https://hbr.org/2016/06/strategic-plans-are-less-important-than-strategic-planning
+Just don’t get too attached to a detailed plan or set vision at the stage of that project. You will learn as you go and may need to adjust your plans along the way. If you’re working in an agile way, this is natural. As Graham Kenny writes, “strategic plans are less important than strategic planning”.
