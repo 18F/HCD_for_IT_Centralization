@@ -72,4 +72,4 @@ Identifying what IT functionality should exist is only the beginning. Start thin
 
 At the end of the day, centralization may or may not be the right strategy for your agency. Approaching the decision in a user-centered way will help you gain trust with your team and reduce the risk of making a poor investment. 
 
-_Next in our series, we’ll talk about working with vendors and how to build or buy a centralized solution from them in a user-centered way._ 
+_Next in our series, we’ll talk about [working with vendors and how to build or buy a centralized solution](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md) from them in a user-centered way._ 
