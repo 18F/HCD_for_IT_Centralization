@@ -45,10 +45,49 @@ Here are four questions to ask while analyzing feedback:
 
 **1. Is your service more of a burden than a help?** Keep track of themes in requests as they come in. Catching themes (did you get eight requests for the same thing?) early gives you a chance to solve issues before they become big problems — or before your users give up and your new system goes unused.
 
-2. Where is your service most helpful? Feedback doesn’t always have to be a bad thing. Asking questions about how your service is helping people can identify places to double down. It’s also good to keep an eye out for unexpected ways people are using your service. 
+**2. Where is your service most helpful?** Feedback doesn’t always have to be a bad thing. Asking questions about how your service is helping people can identify places to double down. It’s also good to keep an eye out for unexpected ways people are using your service. 
 
-3. How healthy is your relationship with your users? The amount of time it takes your team to respond to bug reports and service requests is a good way to measure the health of this relationship. Keep in mind, it’s harder to regain your users’ trust than it is to build it from the beginning. 
+**3. How healthy is your relationship with your users?** The amount of time it takes your team to respond to bug reports and service requests is a good way to measure the health of this relationship. Keep in mind, it’s harder to regain your users’ trust than it is to build it from the beginning. 
 
-4. How is your service delivering on your intended goals? Go back to the intended outcomes and success metrics you created in the beginning of the evaluation process to measure performance. 
+**4. How is your service delivering on your intended goals?** Go back to the intended outcomes and success metrics you created in the beginning of the evaluation process to measure performance. 
 
 Keep feedback channels open so there’s a shared mindset across the team for continuous sharing, continuous iterating, and continuous improvement. Receiving feedback is only the first part; make sure you respond to your users and communicate what you learned and what you’re doing as a result so users feel heard. 
+
+# 3. Communicate proactively to build user confidence 
+One of the biggest things your users will care about is how centralization efforts impact their jobs. It’s important to stay transparent about all the ways you plan to replace current processes with new, updated processes. Two tools that can help with this are: roadmaps and role-based training materials. 
+
+## Share your roadmap
+Roadmaps provide a vision of what service offerings look like today and what new things are going to be added or updated in the near future. Creating a roadmap will help your delivery team identify what next steps to take and keep them on the same page. Roadmaps can come in all shapes and sizes, but typically they contain the following: 
+- Recent updates and releases
+- High-priority areas 
+- Upcoming changes and expected delivery dates
+
+A roadmap also helps your users understand how you’re prioritizing changes and when to expect those changes to happen. It’s important to keep it up to date and publish it in a place your users can actually find it. 
+Depending on your IT service, this could be a project landing page, a wiki, a newsletter, a handbook, or even a wall in the office. Making it accessible to your users will help limit fears and frustrations about changes coming out of the blue and reassure users that you’re working to make the service better for them. 
+
+## Develop training materials 
+When people don’t have a common understanding for how a new service works and what its capabilities are, they will naturally become frustrated. It’s worth the extra time to develop training materials so users can effectively use new services. Developing these materials is also a great opportunity to put yourself into your user’s shoes and understand how they would approach the service. If you discover usability issues when writing the manual, it’s a great idea to add them to your delivery team or vendor’s backlog. 
+
+When 18F worked with the Air Force to assess their Recruiting Information Support System (AFRISS), it was evident that users of the new system had difficulties determining how to perform regular tasks in the system. Think about how new services will affect the individual people within your organization and create role-specific, not just component-specific, digital user manuals that people can easily access when they have questions. 
+
+These should be living, breathing training materials — that means it should be someone’s responsibility to keep them updated and responsive to new issues that arise. Make sure the materials are easy to find and easy to digest, too. 
+
+# 4. Deliver updates quickly from DevSecOps
+Back to Sandra. After rolling out the new recruiting system, she got her roadmap up and started collecting feedback from users. Her team quickly identified small updates they could make to the system that would bring big value to users. If they could make these updates in a reasonable timeframe, they could show users how serious they were about delivering on promises. 
+
+The only problem? They didn’t have a clear workflow with the DevSecOps team (the developers, security folks, and operations team) in place to make these updates. As mentioned in our [last post](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md), DevSecOps is the cross-team crew that will keep things running smoothly. Traditionally these teams have worked in silos. Here are ways you can deliver updates quickly: 
+
+- Continuous monitoring = continuous improvement
+Using dashboards and alerts for early signs of risk will help the DevSecOps team react quickly to any signs of threat to the system. When done right, DevSecOps is running tests and security scans often and performing software updates quickly (within days hopefully; within hours ideally). From there, the central IT team can communicate these updates back to users. 
+
+- Weekly instead of monthly shipments
+Instead of releasing updates in huge batches every few months, explore how quickly you can get changes to users. Even if this means weekly deployments, your users will appreciate knowing you’re on the ball. 
+
+- Keep an eye on analytics
+Once the shipment goes out, see how users react with the updated version. 
+Capture analytics — because analytics are your friend! Are the number of tickets decreasing in regards to this issue? Is it saving people time and increasing efficiency? Designate someone in the IT central office to own the analytics and report any key findings back to the DevSecOps team. 
+
+At the end of the day, getting your newly centralized service into the hands of your users is only the beginning. Proactive communication, feedback collection, and follow-through will set you up for success and allow users to continually build confidence in you. This trust is an essential building block of the success of any centralization effort. 
+
+_Next in our series, we share a case study spotlighting the Department of Justice and their user-centered approach to evaluating IT centralization._
+
