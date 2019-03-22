@@ -15,10 +15,10 @@ A good example of this approach in action is the U.S. Web Design System. With ne
 We’ve analyzed other instances of centralization as well, and unfortunately some didn’t go as expected. We’ve talked to users who understand how centralization has impacted their day-to-day work and collected insights about how this plays out.
 
 Our multi-part series shares learnings and best practices from real scenarios, with a focus on the following topics: 
-* Deciding whether or not to centralize 
-* Working with vendors to build a centralized solution
-* What happens after you centralize?
-* Case study: U.S. Web Design System 
+* [Deciding whether or not to centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/deciding_whether_or_not_to_centralize.md)
+* [Working with vendors to build a centralized solution](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md)
+* [What happens after you centralize?](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md)
+* [Case study: U.S. Web Design System] (https://github.com/18F/HCD_for_IT_Centralization/blob/master/case_study_USWDS.md)
 
 While there isn’t a one-size-fits-all method for IT centralization, there are helpful methods and tools you can incorporate into your process. Because at the end of the day, the goal of IT centralization should be to get your users to where they want to be more quickly, and to do so in a way that is cost-effective and compliant. It’s critical to keep a user-centered approach throughout this process. 
 
