@@ -1,4 +1,4 @@
-# Capture hopes and fears 
+# 2. Capture hopes and fears 
 
 Another useful exercise at the beginning of any project is Hopes and Fears. Bring your group of stakeholders together to share their hopes and magic-wand-wishes for the centralization effort as well as any fears, concerns, and questions. Write each hope or fear on a sticky note. A facilitator can cluster overlapping themes and ideas while moderating the discussion around the responses. 
 
