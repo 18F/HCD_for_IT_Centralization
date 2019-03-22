@@ -1,15 +1,17 @@
 
-_This is the third in a series of posts discussing the importance of human centered design in IT centralization. As part of a 10x project, we've synthesized 18F's learnings from working with agency partners into a series of guides and best practices. The series explores how and why taking the time to prioritize users generates more success and overall happiness for an agency. _
+_This is the third in a series of posts discussing the importance of human centered design in IT centralization. As part of a 10x project, we've synthesized 18F's learnings from working with agency partners into a series of guides and best practices. The series explores how and why taking the time to prioritize users generates more success and overall happiness for an agency._
 
 
 # Working with vendors to build a centralized solution
 Whether you’re centralizing software or centralizing offices, every effort is different. That’s why it’s so important to dive into the needs, concerns, and pain points of the people who will be affected by the centralized tool or service. This due diligence won’t just help reduce risk when deciding if and what services to centralize, it will also help reduce risk when working with vendors. 
+
 After interviewing several folks who’ve experienced some sort of centralization effort, we’ve collected five best practices to keep in mind when working with vendors:  
-[1. Think small](## 1. Think small)
-[2. Consider all your options: build, buy, or borrow?](## 2. Consider all your options: build, buy, or borrow?)
-[3. Avoid vendor-lock in ](## 3. Avoid vendor-lock in )
-[4. A few pointers on writing RFPs](## 4. A few pointers on writing RFPs)
-[5. DevSecOps is the secret ingredient ](## 5. DevSecOps is the secret ingredient)
+
+1. [Think small](#1-think-small)
+2. [Consider all your options: build, buy, or borrow?](#2-consider-all-your-options-build-buy-or-borrow)
+3. [Avoid vendor-lock in ](#3-avoid-vendor-lock-in)
+4. [A few pointers on writing RFPs](#4-a-few-pointers-on-writing-rfps)
+5. [DevSecOps is the secret ingredient ](#5-devsecops-is-the-secret-ingredient)
 
 
 ## 1. Think small
@@ -32,7 +34,7 @@ Vendor lock-in occurs when an agency is dependent on one vendor to build, operat
 
 Avoid lock-in by drafting RFPs for small, independent services rather than for large, labyrinthine IT systems. Each service can be built by separate vendors yet come together to form a complete system. This way if one vendor or module isn’t working, you can easily change course. 
 
-When applied to legacy systems, this is sometimes called an [encasement](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/)strategy. Having this flexibility is important - changing direction after investing six months and $500,000 into an IT effort sure beats ditching it five years and $100 million later. Your users will have more trust in you as well.
+When applied to legacy systems, this is sometimes called an [encasement](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/) strategy. Having this flexibility is important - changing direction after investing six months and $500,000 into an IT effort sure beats ditching it five years and $100 million later. Your users will have more trust in you as well.
 This approach has been used by several 18F partners like the [California Department of Health and Human Services](https://18f.gsa.gov/2016/03/22/helping-california-buy-a-new-child-welfare-system/) and [Alaska’s Department of Health & Social Services](https://18f.gsa.gov/2017/09/12/how-alaska-is-using-transparency/). 
 
 
