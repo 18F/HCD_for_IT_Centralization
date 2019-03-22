@@ -9,11 +9,11 @@ To centralize or not to centralize? Many agencies are eager to improve their int
 After interviewing several folks who’ve experienced some sort of centralization effort, we’ve developed some best practices for navigating the possibility of centralizing in a user-centered way. 
 
 ## 5 things to remember when considering centralization
-1. Set specific, realistic, measurable goals
-2. Bring the right people to the table
-3. Collaborate to identify the problem and set the vision
-4. Avoid one-size-fits-all
-5. Anticipate the hurdles
+1. [Set specific, realistic, measurable goals](#1-set-specific-realistic-measurable-goals)
+2. [Bring the right people to the table](#2-bring-the-right-people-to-the-table)
+3. [Collaborate to identify the problem and set the vision](#3-collaborate-to-identify-the-problem-and-set-the-vision)
+4. [Avoid one-size-fits-all](#4-avoid-one-size-fits-all)
+5. [Anticipate the hurdles](#5-anticipate-the-hurdles)
 
 Incorporating human-centered design into your centralization evaluation should be part of your strategy. Because at the end of the day, if your users are not benefiting from the centralization, it’s probably not a good idea. 
 
