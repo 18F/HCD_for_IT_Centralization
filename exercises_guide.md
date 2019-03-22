@@ -1,4 +1,4 @@
-# Human-Centered Design Exercises for Centralization
+# Guide: Human-Centered Design Exercises for IT Centralization
 
 While it’s tempting to move quickly on a centralization initiative, it’s always worth it to invest in the time it takes to investigate opportunities and risks at an early stage. Digging into user research early in this process will mitigate much bigger risks down the line. 
 
@@ -14,30 +14,18 @@ Building collaborative relationships needs to be at the foundation of any initia
 
 ### Give users visibility into the issue resolution process
 Giving users visibility into the work behind the scenes is another way to build trust without creating substantial burden on the agency. 
-1. [Facilitate a consensus-building workshop]
-(https://github.com/18F/HCD_for_IT_Centralization/blob/master/consensus-building-workshop.md)
-2. [Capture hopes and fears]
-(LINK) 
-3. [Working with vendors to build a centralized solution]
-(LINK)
-4.[Get a deeper understanding of existing services]
-(LINK)
-5.[Send an open-ended survey to users]
-(LINK)
-6.[What are good candidates for consolidation?]
-(LINK)
-7.[ Dig deeper into “good” and “bad” candidates]
-(LINK)
-8.[Define success metrics]
-(LINK)
 
-- [Defining IT centralization](https://github.com/18F/HCD_for_IT_Centralization/blob/master/deciding_whether_or_not_to_centralize.md)
-- [Deciding whether or not to centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/defining_IT_centralization.md) 
-- [Working with vendors to build a centralized solution](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md)
-- [What happens after you centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md)
+1. [Facilitate a consensus-building workshop](https://github.com/18F/HCD_for_IT_Centralization/blob/master/consensus-building-workshop.md)
+2. [Capture hopes and fears](https://github.com/18F/HCD_for_IT_Centralization/blob/master/hopes_and_fears.md) 
+3. [Define the current state](https://github.com/18F/HCD_for_IT_Centralization/blob/master/define_current_state.md)
+4.[Get a deeper understanding of existing services](LINK)
+5.[Send an open-ended survey to users](LINK)
+6.[What are good candidates for consolidation?](LINK)
+7.[ Dig deeper into “good” and “bad” candidates](LINK)
+8.[Define success metrics](LINK)
 
 ## Congrats! You did great work!
 Taking the time to go through these exercises and deepen your understanding of the risks and opportunities involved can save you considerable time and money. The success of any centralization effort fundamentally depends on the value the centralization brings to its users. If a centralization introduces new obstacles, making work less effective and less efficient for users, it’s not bringing the agency value. 
 
 ## Don’t stop here
-Check out our “What happens after you centralize” guide to navigate the transition into becoming your own service provider, and learn how to continuously improve your centralized services in a user-centered way. 
+Check out our [“What happens after you centralize”](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md) guide to navigate the transition into becoming your own service provider, and learn how to continuously improve your centralized services in a user-centered way. 
