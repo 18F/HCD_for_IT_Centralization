@@ -1,4 +1,4 @@
-# Building a centralized design system for the government: _A case study on U.S. Web Design System_
+# _A case study on U.S. Web Design System_: Building a centralized design system for the government
 
 - **The challenge:** To create visual consistency across the nearly 30,000 U.S. federal websites in order to save the government considerable time and budget on design and development resources
 - **The outcome:** [U.S. Web Design System](https://designsystem.digital.gov/) - a centralized tool that’s free and accessible for all federal agencies 
@@ -29,4 +29,40 @@ You may find that some of the simplest themes and patterns will come up again an
 ## 3. Look for duplication of efforts
 Where is your team repeating efforts across different tools and services? Where are you wasting time? What takes the longest time or is the most challenging? Where does friction arise?
 
+For the USWDS team, this meant asking: _Do we really need 32 different shades of blue? And do we need 64 types of buttons?_ Probably not. Surfacing and categorizing duplication of efforts across different components allowed the team to see the inconsistencies among government websites as well as what they all had in common.
+
+## 4. Prioritize certain areas of focus
+There are many methods to help a group prioritize areas of focus. One of the simplest methods is dot-voting. Allow the group to vote on different issues or themes that are most important to address first to help you rank priorities. 
+
+For the USWDS team, [dot-voting](https://methods.18f.gov/discover/feature-dot-voting/) helped the team figure out 1) which areas to start working on first and 2) which design styles they favored most when developing a new system. They even put their ideas on GitHub to solicit feedback from a wider range of government employees who weren’t in the room in order to incorporate outside feedback. 
+
+## 5. Start small and iterate fast
+Figure out what your core needs are, prototype them, and get to testing! Bite off small chunks and start iterating right away. That’s how you’ll find out what’s missing and what needs reshaping before you start investing too much time and resources — it’ll be a much heavier lift to rebuild later. Start with a limited set of components that will give you real answers right away. Guidance will come once you start putting these out in the world and into people’s hands. 
+
+## 6. Don’t work in a vacuum
+Once your products are ready to test, find the right people to test them. Who will actually be using the service? Let them guide your decisions as you evolve the project. It’s better to get your work out early even if certain areas are still unfinished or rough around the edges. As you build products and test them with real users, you’ll have more guidance on where to go next, allowing you to make improvements more efficiently and effectively.
+
+## 7. Reuse when it makes sense to, but not all the time
+It’s great to see how other agencies have solved problems and reuse when you can, but know that their solutions are solving their problems. Each agency should be mindful of its unique mission and unique needs across teams. Individual problems may need an individual approach, and that’s fine. Don’t fall into the trap of “this is what a design library should look like” or “this is what an HR recruiting system should look like” just because another agency is doing it a certain way.
+
+## 8. Be your own cheerleader
+Get teams excited about the centralization effort! Talk about the value they’ll get when using the new service of system. In the case of USWDS, the added value was: consistent, beautiful, user-friendly design with accessible interfaces that will save agencies time and money. Now that’s pretty excitement-worthy, right? Be your own cheerleader and users will be more likely to invest in your service. 
+
+## 9. Be centralization-flexible
+Nobody likes when new rules and processes are forced upon them. Instead give people opportunities to access centralized services when it makes sense to, but also leave some room for customization. 
+In the case of USWDS, there was some tension between the standardization and customization of design standards. USWDS was never intended to be prescriptive — instead it’s a robust resource providing a foundational design language. 
+Ultimately the goal of centralization is to create a tool that helps users get to where they need to go more quickly, and in some cases, users will need to customize to get there. Leave space for this. 
+
+## 10. Offer multiple feedback outlets and stay chatty
+Give people a variety of places they can reach out to you, whether on GitHub, Slack channels, email accounts, a help desk, or other communication lines. 
+
+One way USWDS stays in touch with users? They have a standing monthly call that serves as an open forum for agency partners to join and hear more about what’s going on. (How great is that?) This is a chance for the USWDS team to share updates and allow any community members to speak up with feedback. 
+
+USWDS also shares their roadmap publicly so everyone knows what issues they’re paying attention to and which ones they’re not paying attention to (and why). 
+
+## Conclusion
+
+The most important bit of advice we can offer? When embarking on a big centralization effort — and the USWDS was one big beast of a project — invite your users to participate throughout the process and make it their own. Only when people have a stake in the system will they feel invested to use it and contribute back, making it more dynamic, versatile, and able to stand the test of time. 
+
+_Read more about how USWDS was built on the 18F blog [here](https://18f.gsa.gov/2017/10/03/building-a-large-scale-design-system/). Special thanks to Maya Benari and Dan O. Williams for contributing their wisdom to this post!_
 
