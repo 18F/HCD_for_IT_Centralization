@@ -77,13 +77,13 @@ Back to Sandra. After rolling out the new recruiting system, she got her roadmap
 
 The only problem? They didn’t have a clear workflow with the DevSecOps team (the developers, security folks, and operations team) in place to make these updates. As mentioned in our [last post](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md), DevSecOps is the cross-team crew that will keep things running smoothly. Traditionally these teams have worked in silos. Here are ways you can deliver updates quickly: 
 
-- **Continuous monitoring = continuous improvement** 
+- **Continuous monitoring = continuous improvement.** 
 Using dashboards and alerts for early signs of risk will help the DevSecOps team react quickly to any signs of threat to the system. When done right, DevSecOps is running tests and security scans often and performing software updates quickly (within days hopefully; within hours ideally). From there, the central IT team can communicate these updates back to users. 
 
-- **Weekly instead of monthly shipments**
+- **Weekly instead of monthly shipments.**
 Instead of releasing updates in huge batches every few months, explore how quickly you can get changes to users. Even if this means weekly deployments, your users will appreciate knowing you’re on the ball. 
 
-- **Keep an eye on analytics**
+- **Keep an eye on analytics.**
 Once the shipment goes out, see how users react with the updated version. 
 Capture analytics — because analytics are your friend! Are the number of tickets decreasing in regards to this issue? Is it saving people time and increasing efficiency? Designate someone in the IT central office to own the analytics and report any key findings back to the DevSecOps team. 
 
