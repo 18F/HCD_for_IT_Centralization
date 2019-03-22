@@ -1,4 +1,4 @@
-# Define the current state 
+# 3. Define the current state 
 
 You’ll want to map out how things are working _now._ This will help you identify clear pain points and ensure that any changes you make will improve current processes, not block them. 
 
