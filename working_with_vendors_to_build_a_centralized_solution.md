@@ -1,11 +1,10 @@
 
-_This is the third in a series of posts discussing the importance of human centered design in IT centralization. As part of a 10x project, we've synthesized 18F's learnings from working with agency partners into a series of guides and best practices. The series explores how and why taking the time to prioritize users generates more success and overall happiness for an agency._
+_This is the third in a series of posts discussing the importance of human-centered design in IT centralization. As part of a 10x project, we've synthesized 18F's learnings from working with agency partners into a collection of best practices and guides. The series explores why taking the time to prioritize users is important, and how to incorporate collaborative methods into your process. In this post we’ll share some helpful tips on how to effectively work with vendors. _
 
 
 # Working with vendors to build a centralized solution
 Whether you’re centralizing software or centralizing offices, every effort is different. That’s why it’s so important to dive into the needs, concerns, and pain points of the people who will be affected by the centralized tool or service. This due diligence won’t just help reduce risk when deciding if and what services to centralize, it will also help reduce risk when working with vendors. 
-
-After interviewing several folks who’ve experienced some sort of centralization effort, we’ve collected five best practices to keep in mind when working with vendors:  
+After interviewing several folks who’ve experienced some sort of centralization effort, we’ve collected five best practices to keep in mind when working with vendors:   
 
 1. [Think small](#1-think-small)
 2. [Consider all your options: build, buy, or borrow?](#2-consider-all-your-options-build-buy-or-borrow)
@@ -15,12 +14,12 @@ After interviewing several folks who’ve experienced some sort of centralizatio
 
 
 ## 1. Think small
-Centralization efforts can feel like giant, gnarly endeavors - and they often are. Many agencies have tried to deal with this uncertainty by using waterfall methods. High-level stakeholders gathered pages and pages of detailed requirements up front. Then they hired a single vendor. Many years and millions of dollars later, the vendor would deliver a new system that meets (now outdated) user needs. 
+Centralization efforts can feel like giant, gnarly endeavors — and they often are. Many agencies have tried to deal with this uncertainty by using waterfall methods. High-level stakeholders gathered pages and pages of detailed requirements up front. Then they hired a single vendor. Many years and millions of dollars later, the vendor would deliver a new system that meets (now outdated) user needs. 
 
 Systems built this way are often inflexible, delivered late, and can’t easily support program or policy changes. More importantly, they may not deliver value to the people they intend to serve. 
 
-Agile and Lean methodologies break large pieces of work into smaller chunks that are achievable, testable, and deliverable based on user needs - that means they’re built and shipped in small, quick iterations so you can iron out issues before they turn into much bigger issues. These methodologies represent a new, more transparent way of working with vendors. 
-18F often refers to this approach as modular contracting. Modular contracting breaks up large, custom software procurements into a small constellation of smaller contracts. This can reduce risk and improve the chances of successful project execution.
+Agile and Lean methodologies break large pieces of work into smaller chunks that are achievable, testable, and deliverable based on user needs — that means they’re built and shipped in small, quick iterations so you can iron out issues before they turn into much bigger problems. These methodologies represent a new, more transparent way of working with vendors. 
+18F often refers to this approach as modular contracting. [Modular contracting](https://18f.gsa.gov/2019/02/28/prerequisites-for-modular-contracting/) breaks up large, custom software procurements into a small constellation of smaller contracts. This can reduce risk and improve the chances of successful project execution.
 
 
 ## 2. Consider all your options: build, buy, or borrow?
