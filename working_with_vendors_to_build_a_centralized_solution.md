@@ -1,5 +1,5 @@
 
-_This is the third in a series of posts discussing the importance of human-centered design in IT centralization. As part of a [10x](10x.gsa.gov) project, we've synthesized 18F's learnings from working with agency partners into a collection of best practices and guides. The series explores why taking the time to prioritize users is important, and how to incorporate collaborative methods into your process. In this post we’ll share some helpful tips on how to effectively work with vendors._
+_This is the third in a series of posts discussing the importance of human-centered design in IT centralization. As part of a [10x project](10x.gsa.gov), we've synthesized 18F's learnings from working with agency partners into a collection of best practices and guides. The series explores why taking the time to prioritize users is important, and how to incorporate collaborative methods into your process. In this post we’ll share some helpful tips on how to effectively work with vendors._
 
 
 # Working with vendors to build a centralized solution
