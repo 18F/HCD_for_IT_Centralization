@@ -11,11 +11,11 @@ Our intended audience is CIOs who set their agency’s modernization strategies 
 
 # Content series 
 This multi-part content series covers the following topics: 
-- [Why prioritizing users is always important in centralization](https://github.com/18F/HCD_for_IT_Centralization/blob/master/deciding_whether_or_not_to_centralize.md)
-- [Deciding whether or not to centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/defining_IT_centralization.md) 
-- [Working with vendors to build a centralized solution](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md)
-- [What happens after you centralize?](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md)
-- [Centralization gone right: a case study on the U.S. Web Design System](https://github.com/18F/HCD_for_IT_Centralization/blob/master/case_study_USWDS.md)
+- [Intro: Why prioritizing users is important](https://github.com/18F/HCD_for_IT_Centralization/blob/master/deciding_whether_or_not_to_centralize.md)
+- [Part 1: Deciding whether or not to centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/defining_IT_centralization.md) 
+- [Part 2: Working with vendors to build a centralized solution](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md)
+- [Part 3: What happens after you centralize?](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md)
+- [Centralization gone right! A case study on the U.S. Web Design System](https://github.com/18F/HCD_for_IT_Centralization/blob/master/case_study_USWDS.md)
 
 # Applicable human-centered design exercies
 Digging into user research early will mitigate much bigger risks down the line. Below are some exerices we recommend agencies perform with their teams when evaluating IT centralization. ([Read the full guide here](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/exercises_guide.md.)
