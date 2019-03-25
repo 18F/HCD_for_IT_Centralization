@@ -17,8 +17,8 @@ This multi-part content series covers the following topics:
 - [Part 3: What happens after you centralize?](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md)
 - [Centralization gone right! A case study on the U.S. Web Design System](https://github.com/18F/HCD_for_IT_Centralization/blob/master/case_study_USWDS.md)
 
-# Applicable human-centered design exercies
-Digging into user research early will mitigate much bigger risks down the line. Below is a list of exerices we recommend. [(Full guide with exercises here)](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/exercises_guide.md.)
+# Applicable human-centered design exercises
+Digging into user research early will mitigate much bigger risks down the line. Below is a list of exercises we recommend. [(Full guide with exercises here)](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/exercises_guide.md.)
 
 1. [Facilitate a consensus-building workshop](https://github.com/18F/HCD_for_IT_Centralization/blob/master/consensus-building-workshop.md)
 2. [Capture hopes and fears](https://github.com/18F/HCD_for_IT_Centralization/blob/master/hopes_and_fears.md) 
@@ -30,5 +30,5 @@ Digging into user research early will mitigate much bigger risks down the line. 
 8. [Define success metrics](https://github.com/18F/HCD_for_IT_Centralization/blob/master/define-success-metrics.md)
 
 # Publishing and promotional plan
-This content is here for all to access, cross-publish, cross-promote, and share. 
-You may also find this content living on the 18F Blog, and cross-promoted by partners such as the CIO Council, Performance.gov, Digital.gov, and Centers of Excellence. 
+This content is here for all to access, cross-publish, and share. 
+You may also find this content on the 18F Blog, and cross-promoted by partners such as the CIO Council, Performance.gov, Digital.gov, and Centers of Excellence. 
