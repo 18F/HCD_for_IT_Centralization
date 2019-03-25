@@ -31,4 +31,4 @@ Digging into user research early will mitigate much bigger risks down the line. 
 
 # Publishing and promotional plan
 This content is here for all to access, cross-publish, cross-promote, and share. 
-You may also find this content living on the 18F Blog as well as promoted by partners such as the CIO Council, Performance.gov, Digital.gov, and Centers of Excellence. 
+You may also find this content living on the 18F Blog, and cross-promoted by partners such as the CIO Council, Performance.gov, Digital.gov, and Centers of Excellence. 
