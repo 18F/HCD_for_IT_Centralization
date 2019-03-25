@@ -10,10 +10,11 @@ Hundreds of millions of dollars are spent on centralization efforts that don't e
 Our intended audience is CIOs who set their agency’s modernization strategies as well as performance managers or anyone else who make decisions around IT centralization efforts within an agency. Our goal is to introduce this audience to user-centered exercises, methods, and other best practices to guide them through a centralization initiative. 
 
 # Content series 
-- [Defining IT centralization](https://github.com/18F/HCD_for_IT_Centralization/blob/master/deciding_whether_or_not_to_centralize.md)
+This multi-part content series covers the following topics: 
+- [Why prioritizing users is always important in centralization](https://github.com/18F/HCD_for_IT_Centralization/blob/master/deciding_whether_or_not_to_centralize.md)
 - [Deciding whether or not to centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/defining_IT_centralization.md) 
 - [Working with vendors to build a centralized solution](https://github.com/18F/HCD_for_IT_Centralization/blob/master/working_with_vendors_to_build_a_centralized_solution.md)
-- [What happens after you centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md)
+- [What happens after you centralize?](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md)
 - [Centralization gone right: a case study on the U.S. Web Design System](https://github.com/18F/HCD_for_IT_Centralization/blob/master/case_study_USWDS.md)
 
 # Applicable human-centered design exercies
