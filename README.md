@@ -30,4 +30,5 @@ Digging into user research early will mitigate much bigger risks down the line. 
 8. [Define success metrics](https://github.com/18F/HCD_for_IT_Centralization/blob/master/define-success-metrics.md)
 
 # Publishing and promotional plan
-This content is here for all to access, cross-publish, cross-promote, and share widely. You may also find this content living on the 18F Blog and promoted by partners such as the CIO Council, Performance.gov, Digital.gov, and Centers of Excellence. 
+This content is here for all to access, cross-publish, cross-promote, and share. 
+You may also find this content living on the 18F Blog as well as promoted by partners such as the CIO Council, Performance.gov, Digital.gov, and Centers of Excellence. 
