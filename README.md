@@ -1,5 +1,7 @@
 # Project overview 
-How might federal agencies design centralized IT services to produce value for teams rather than burden them? This question is at the heart of this 10x phase 2 project.
+How might federal agencies design centralized IT services to produce value for teams rather than burden them? 
+
+This question is at the heart of this [10x](https://10x.gsa.gov/) phase 2 project.
 
 We’ve synthesized outcomes from past 18F consulting engagements to share ways in which human-centered design methods can mitigate risks associated with centralizing IT services. We’ve analyzed real scenarios in which agency partners have attempted centralization but they didn’t always work out as hoped. We’ve talked to users who understand how centralization has impacted their day-to-day work. We’ve collected many insights about how this plays out, and have distilled our learnings into this content series to highlight best practices.
 
