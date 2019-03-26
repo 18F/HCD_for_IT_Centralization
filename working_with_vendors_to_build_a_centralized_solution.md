@@ -1,4 +1,6 @@
-# Working with vendors to build a centralized solution
+_This is Part 2 in a series of posts on the importance of human-centered design when evaluating IT centralization. As part of a [10x](https://10x.gsa.gov/) project, we've synthesized 18F's learnings from agency partners who’ve been through centralization efforts before and have wisdom to share. The series explores how and why taking the time to prioritize users will mitigate risks and yield services that work better for the people they serve. In this post, we’ll share some helpful tips on how to effectively work with vendors._
+
+# Part 2: Working with vendors to build a centralized solution
 Whether you’re centralizing software or centralizing offices, every effort is different. That’s why it’s so important to dive into the needs, concerns, and pain points of the people who will be affected by the centralized tool or service. This due diligence won’t just help reduce risk when deciding if and what services to centralize, it will also help reduce risk when working with vendors. 
 After interviewing several folks who’ve experienced some sort of centralization effort, we’ve collected five best practices to keep in mind when working with vendors:   
 
