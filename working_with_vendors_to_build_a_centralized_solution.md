@@ -1,8 +1,3 @@
-
-_This is the third in a series of posts discussing the importance of human-centered design in IT centralization. As part of a [10x project](10x.gsa.gov), we've synthesized 18F's learnings from working with agency partners into a collection of best practices and guides. The series explores why taking the time to prioritize users is important, and how to incorporate collaborative methods into your process. In this post we’ll share some helpful tips on how to effectively work with vendors._
-
-----
-
 # Working with vendors to build a centralized solution
 Whether you’re centralizing software or centralizing offices, every effort is different. That’s why it’s so important to dive into the needs, concerns, and pain points of the people who will be affected by the centralized tool or service. This due diligence won’t just help reduce risk when deciding if and what services to centralize, it will also help reduce risk when working with vendors. 
 After interviewing several folks who’ve experienced some sort of centralization effort, we’ve collected five best practices to keep in mind when working with vendors:   
@@ -57,4 +52,4 @@ Creating a cross-functional DevSecOps team helps avoid these pitfalls by bringin
 
 Working with an outside vendor often means trusting people who are removed from your agency, your mission, and your end users. It’s risky to depend on a vendor to build, maintain, and update an IT service that is fundamentally critical to your mission. When shopping for a vendor, make sure you find one that’s aligned with your mission and integrate your DevSecOps team into this vendor partnership to keep your users at the center of the centralization. 
 
-_Next in our series, we address what happens after you centralize and how to keep a user-centered approach even after the rollout._ 
+_Next in our series, we address [what happens after you centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what_happens_after_you_centralize.md) and how to keep a user-centered approach even after the rollout._ 
