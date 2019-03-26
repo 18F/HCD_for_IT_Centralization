@@ -2,7 +2,10 @@
 
 Now we want to get a better understanding of how current services can be restructured and possibly consolidated. This involves two separate activities: 
 
+
 ## Activity 1
+
+![Activity 1](https://github.com/18F/HCD_for_IT_Centralization/blob/master/goodbad-candidates-activity1.png)
 
 Ask your team to sort the different services into one of three categories: 
 
@@ -11,7 +14,10 @@ Ask your team to sort the different services into one of three categories:
 3. **Difficult to centralize:** services that seem like a good candidate but users actually feel would be a poor candidate for consolidation
 
 
+
 ## Activity 2
+![Activity 2](https://github.com/18F/HCD_for_IT_Centralization/blob/master/goodbad-candidates-activity2.png)
+
 Ask your team to place their services on a graph with axes representing the value the service provides to users and the effort it takes to provide the service. 
 
 **High Value vs Low Value** on the y-axis and **High Effort vs Low Effort** on the x-axis. 
