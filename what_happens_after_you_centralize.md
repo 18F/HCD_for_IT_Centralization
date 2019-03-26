@@ -1,8 +1,8 @@
-_This is part of a content series on the importance of human-centered design when evaluating IT centralization. As part of a [10x project](10x.gsa.gov), we've synthesized 18F's learnings from agency partners who’ve been through centralization efforts before and have wisdom to share. The series explores how and why taking the time to prioritize users will mitigate risks and yield services that work better for the people they serve. In this post we’ll discuss what to anticipate after a centralization roll-out._
+_This is Part 3 in a series of posts on the importance of human-centered design when evaluating IT centralization. As part of a [10](10x.gsa.gov) project, we've synthesized 18F's learnings from agency partners who’ve been through centralization efforts before and have wisdom to share. The series explores how and why taking the time to prioritize users will mitigate risks and yield services that work better for the people they serve.  In this post we’ll discuss what to anticipate after a centralization roll-out._
 
 ----
 
-# What happens after you centralize
+# Part 3: What happens after you centralize
 
 Let’s say the CIO of a large agency recently decided to consolidate different recruiting tools used across her agency’s different departments. We’ll call her Sandra. Previously each department was managing their own recruiting systems, processes, and data, but Sandra hoped the new arrangement would decrease the number of systems needed and reduce the burden on individual departments. 
 
@@ -93,5 +93,5 @@ Capture analytics — because analytics are your friend! Are the number of ticke
 
 At the end of the day, getting your newly centralized service into the hands of your users is only the beginning. Proactive communication, feedback collection, and follow-through will set you up for success and allow users to continually build confidence in you. This trust is an essential building block of the success of any centralization effort. 
 
-_Next in our series, we share a case study spotlighting the U.S. Web Design System and how they developed a centralized design tool that allows agencies to build consistent digital experiences quickly and at a reduced cost._
+_Next in our series, we share [a case study spotlighting the U.S. Web Design System](https://github.com/18F/HCD_for_IT_Centralization/blob/master/case_study_USWDS.md). This is a great example of centralization as it shows how a team came together to create a centralized design tool that allows agencies to build consistent digital experiences quickly and at a reduced cost._
 
