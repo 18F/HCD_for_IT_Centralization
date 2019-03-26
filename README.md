@@ -1,5 +1,5 @@
 # Project overview 
-How might federal agencies evaluate IT centralization with a user-centered approach? Why is this important? How will this approach bring value to the agency? These questions are at the heart of this [10x](https://10x.gsa.gov/) phase 2 project.
+How might federal agencies evaluate IT centralization with a user-centered approach? Why is this important? How will a user-centered approach bring value to the agency? These questions are at the heart of this [10x](https://10x.gsa.gov/) phase 2 project.
 
 We’ve synthesized outcomes from past 18F consulting engagements to highlight ways in which human-centered design methods can mitigate risks associated with centralizing IT services. We’ve analyzed real scenarios in which agency partners have attempted centralization, which didn’t always work out as planned. We’ve talked to users who understand how centralization has impacted their teams. We’ve collected many insights about how centralization can play out, and have distilled our learnings into this content series.
 
