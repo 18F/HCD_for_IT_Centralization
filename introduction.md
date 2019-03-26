@@ -1,4 +1,4 @@
-_This is the kick-off post of a content series on the importance of human-centered design when evaluating IT centralization. As part of a 10x project, we've synthesized 18F's learnings from agency partners who’ve been through centralization efforts before and have wisdom to share. The series explores how and why taking the time to prioritize users will mitigate risks and yield services that work better for the people they serve._
+_This is the kick-off post of a content series on the importance of human-centered design when evaluating IT centralization. As part of a [10x](https://10x.gsa.gov/) project, we've synthesized 18F's learnings from agency partners who’ve been through centralization efforts before and have wisdom to share. The series explores how and why taking the time to prioritize users will mitigate risks and yield services that work better for the people they serve._
 
 # Why prioritizing users is important during IT centralization 
 
