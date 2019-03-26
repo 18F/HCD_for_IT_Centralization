@@ -12,7 +12,7 @@ At 18F, we believe directly engaging users while evaluating IT centralization wi
 
 A good example of this approach in action is the [U.S. Web Design System](https://designsystem.digital.gov/). With nearly 30,000 U.S federal websites and almost no consistency between them, it was crucial to create a centralized, shared design tool to benefit multiple agencies. It would allow agencies to build consistent, effective, easy-to-use digital experiences quickly and at a reduced cost. 18F joined forces with representatives from different federal agencies, and using human-centered design principles, worked to unify multiple interfaces, navigation tools, colors, fonts, and other visual identities. 
 
-Since USWDS launched in 2015, over 180 government projects have adopted the design system. USWDS predicts that agencies save about $100,000 per project when they use this centralized tool. Pretty awesome, right? [Read more about USWDS here.](https://github.com/18F/HCD_for_IT_Centralization/blob/master/case_study_USWDS.md)
+Since USWDS launched in 2015, over 180 government projects have adopted the design system. USWDS predicts that agencies save about $100,000 per project when they use this centralized tool. Pretty awesome, right? [Read more in our case study on USWDS here.](https://github.com/18F/HCD_for_IT_Centralization/blob/master/case_study_USWDS.md)
 
 We’ve analyzed other instances of centralization as well, and unfortunately some didn’t go as expected. We’ve talked to users who understand how centralization has impacted their day-to-day work and collected insights about how this plays out.
 
