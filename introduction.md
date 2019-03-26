@@ -24,7 +24,7 @@ Our multi-part series shares learnings and best practices from real scenarios, w
 
 While there isn’t a one-size-fits-all method for IT centralization, there are helpful methods and tools you can incorporate into your process. Because at the end of the day, the goal of IT centralization should be to get your users to where they want to be more quickly, and to do so in a way that is cost-effective and compliant. It’s critical to keep a user-centered approach throughout this process. 
 
-Next in our series, we’ll help you [decide whether or not to centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/deciding_whether_or_not_to_centralize.md) and what to consider when making this decision. 
+_Next in our series, we’ll help you [decide whether or not to centralize](https://github.com/18F/HCD_for_IT_Centralization/blob/master/deciding_whether_or_not_to_centralize.md) and what to consider when making this decision._
 
-_Note: another methodology to consider when centralizing IT is Technology Business Management (TBM). It’s designed to help CIOs and other leaders track IT spending and assess the value that IT services bring to the agency’s mission. GSA has created a TBM Playbook to help federal agencies align business needs with their IT strategy._
+_Note: another methodology to consider when centralizing IT is [Technology Business Management (TBM)](https://tech.gsa.gov/playbooks/tbm/). It’s designed to help CIOs and other leaders track IT spending and assess the value that IT services bring to the agency’s mission. GSA has created a TBM Playbook to help federal agencies align business needs with their IT strategy._
 
