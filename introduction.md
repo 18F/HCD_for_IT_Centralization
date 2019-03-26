@@ -1,16 +1,18 @@
-
-_This is the first in a series of posts discussing the importance of human centered design in IT centralization. As part of a 10x project, we've synthesized 18F's learnings from working with agency partners into a series of guides and best practices. The series explores how and why taking the time to prioritize users generates more success and overall happiness for an agency._
+_This is the kick-off post of a content series on the importance of human-centered design when evaluating IT centralization. As part of a 10x project, we've synthesized 18F's learnings from agency partners who’ve been through centralization efforts before and have wisdom to share. The series explores how and why taking the time to prioritize users will mitigate risks and yield services that work better for the people they serve. _
 
 # Why prioritizing users is important during IT centralization 
 
 When you read about IT centralization and shared services, you don’t always hear how users are affected by the process. Instead, the focus is typically on reduced costs and increased efficiency, often the driving force behind a centralization effort. User needs aren’t always prioritized due to limited timelines, limited budgets, and competing agency pressures.
 
-But allowing for users to inform centralization decisions is critical. Finding a problem or changing direction after investing six months and $500,000 into the centralization effort sure beats discovering it five years and $100 million later, right? 
-Hundreds of millions of dollars are spent on centralization efforts that don't end up delivering value to users. Many guides on centralization focus on IT as the ends not the means to achieving an agency’s mission. This often results in expensive vendor contracts that eventually get tossed out the window a few years later. 
+But allowing for users to inform centralization decisions is critical. Finding a problem or changing direction after investing six months and $500,000 into the centralization effort sure beats discovering it five years and $100 million tax dollars later.
+
+Large private and public enterprises spend hundreds of millions of dollars on centralization efforts that don't end up delivering value to users. Many guides on centralization focus on IT as the ends not the means to achieving an agency’s mission. This often results in expensive vendor contracts that eventually get tossed out the window a few years later.  
 
 At 18F, we believe directly engaging users while evaluating IT centralization will result in services that work better for the people they serve. This means less rework and fewer support issues down the road. An iterative process, not a waterfall approach, also decreases risk. Human-centered design methods can help every step of the way.
 
-A good example of this approach in action is the U.S. Web Design System. With nearly 30,000 U.S federal websites and almost no consistency between them, it was crucial to create a centralized, shared design tool to benefit multiple agencies. It would allow agencies to build consistent, effective, easy-to-use digital experiences quickly and at a reduced cost. 18F joined forces with representatives from different federal agencies, and using human-centered design principles, worked to unify multiple interfaces, navigation tools, colors, fonts, and other visual identities. Read more about this centralization effort here. 
+A good example of this approach in action is the [U.S. Web Design System](https://designsystem.digital.gov/). With nearly 30,000 U.S federal websites and almost no consistency between them, it was crucial to create a centralized, shared design tool to benefit multiple agencies. It would allow agencies to build consistent, effective, easy-to-use digital experiences quickly and at a reduced cost. 18F joined forces with representatives from different federal agencies, and using human-centered design principles, worked to unify multiple interfaces, navigation tools, colors, fonts, and other visual identities. 
+
+Since USWDS launched in 2015, over 180 government projects have adopted the design system. USWDS predicts that agencies save about $100,000 per project when they use this centralized tool. Pretty awesome, right? [Read more about USWDS here.](https://github.com/18F/HCD_for_IT_Centralization/blob/master/case_study_USWDS.md)
 
 We’ve analyzed other instances of centralization as well, and unfortunately some didn’t go as expected. We’ve talked to users who understand how centralization has impacted their day-to-day work and collected insights about how this plays out.
 
