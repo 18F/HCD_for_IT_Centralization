@@ -6,6 +6,8 @@ A good method for documenting this is to have your team write user-centered prob
 
 ## A [user] who feels [negative feeling] about [reason] needs to [step to take] but faces [obstacle].
 
+ ![define current state activity image](https://github.com/18F/HCD_for_IT_Centralization/blob/master/define_current_state_activity.png)
+
 It may also be a good idea to run through the **5 Whys** if any particularly gnarly problems surface during the exercise. To do this, start with asking why the problem occurs. The answer to the first “why” should prompt the next “why” until you reach the root cause of the issue. 
 
 ## Try this exercise!
