@@ -10,7 +10,7 @@ Some areas to focus on:
 This will help you verify existing data and collect new data to inform subsequent conversations. With all the IT services that an agency provides, it’s important to narrow down on the scope early in the process.
 
 Here are a few activities to consider for your workshop: 
-1. [Capture hopes and fears](https://github.com/18F/HCD_for_IT_Centralization/blob/master/hopes_and_fears.md) 
-2. [What are good candidates for consolidation?](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what-are-good-candidates-for-consolidation.md)
-3. [Dig deeper into “good” and “bad” candidates](https://github.com/18F/HCD_for_IT_Centralization/blob/master/dig-deeper-good-bad-candidates.md)
-4. [Get a deeper understanding of existing services](https://github.com/18F/HCD_for_IT_Centralization/blob/master/get-deeper-understanding-existing-services.md)
+1. [Capture hopes and fears](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/hopes_and_fears.md) 
+2. [What are good candidates for consolidation?](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/what-are-good-candidates-for-consolidation.md)
+3. [Dig deeper into “good” and “bad” candidates](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/dig-deeper-good-bad-candidates.md)
+4. [Get a deeper understanding of existing services](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/get-deeper-understanding-existing-services.md)
