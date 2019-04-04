@@ -15,14 +15,14 @@ Building collaborative relationships needs to be at the foundation of any initia
 ### Give users visibility into the issue resolution process
 Giving users visibility into the work behind the scenes is another way to build trust without creating substantial burden on the agency. Here are a few helpful tools that have been used at 18F in past centralization-related projects: 
 
-1. [Facilitate a consensus-building workshop](https://github.com/18F/HCD_for_IT_Centralization/blob/master/consensus-building-workshop.md)
-2. [Capture hopes and fears](https://github.com/18F/HCD_for_IT_Centralization/blob/master/hopes_and_fears.md) 
-3. [Define the current state](https://github.com/18F/HCD_for_IT_Centralization/blob/master/define_current_state.md)
-4. [Get a deeper understanding of existing services](https://github.com/18F/HCD_for_IT_Centralization/blob/master/get-deeper-understanding-existing-services.md)
-5. [Send an open-ended survey to users](https://github.com/18F/HCD_for_IT_Centralization/blob/master/send-survey-to-users.md)
+1. [Facilitate a consensus-building workshop](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/consensus-building-workshop.md)
+2. [Capture hopes and fears](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/hopes_and_fears.md) 
+3. [Define the current state](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/define_current_state.md)
+4. [Get a deeper understanding of existing services](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/get-deeper-understanding-existing-services.md)
+5. [Send an open-ended survey to users](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/send-survey-to-users.md)
 6. [What are good candidates for consolidation?](https://github.com/18F/HCD_for_IT_Centralization/blob/master/what-are-good-candidates-for-consolidation.md)
-7. [Dig deeper into “good” and “bad” candidates](https://github.com/18F/HCD_for_IT_Centralization/blob/master/dig-deeper-good-bad-candidates.md)
-8. [Define success metrics](https://github.com/18F/HCD_for_IT_Centralization/blob/master/define-success-metrics.md)
+7. [Dig deeper into “good” and “bad” candidates](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/dig-deeper-good-bad-candidates.md)
+8. [Define success metrics](https://github.com/18F/HCD_for_IT_Centralization/blob/master/exercises/define-success-metrics.md)
 
 ## Congrats! You did great work!
 Taking the time to go through these exercises and deepen your understanding of the risks and opportunities involved can save you considerable time and money. The success of any centralization effort fundamentally depends on the value the centralization brings to its users. If a centralization introduces new obstacles, making work less effective and less efficient for users, it’s not bringing the agency value. 
