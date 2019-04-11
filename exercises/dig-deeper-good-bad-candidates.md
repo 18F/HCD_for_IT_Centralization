@@ -1,4 +1,4 @@
-# 7. Dig deeper into “good” and “bad” candidates
+# 4. Dig deeper into “good” and “bad” candidates
 
 Ask the group to more concretely list the benefits that consolidating services would have for users, obstacles to those consolidations, and why some of the services are more efficient when left siloed. Because centralizing isn’t always the answer; sometimes it’s better to leave certain services decentralized. 
 
