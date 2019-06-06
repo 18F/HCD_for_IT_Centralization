@@ -1,3 +1,8 @@
+
+Do you make decisions about what tools people can and should use on your team or in your organization? 
+
+Our small team at 18F has been working on a project that looks at bringing user-centered decision making into government IT centralization efforts.
+
 # Project overview 
 How might federal agencies evaluate IT centralization with a user-centered approach? Why is this important? How will a user-centered approach bring value to the agency? These questions are at the heart of this [10x](https://10x.gsa.gov/) phase 2 project.
 
